@@ -50,6 +50,7 @@ Plugins maintained by the fastify team are listed under [Core](#core) while plug
 - [`cls-rtracer`](https://github.com/puzpuzpuz/cls-rtracer) Fastify middleware for CLS-based request id generation. An out-of-the-box solution for adding request ids into your logs.
 - [`fastify-405`](https://github.com/Eomm/fastify-405) Fastify plugin that adds 405 HTTP status to your routes
 - [`fastify-amqp`](https://github.com/RafaelGSS/fastify-amqp) Fastify AMQP connection plugin, to use with RabbitMQ or another connector. Just a wrapper to [`amqplib`](https://github.com/squaremo/amqp.node).
+- [`fastify-autocrud`](https://github.com/paranoiasystem/fastify-autocrud) Plugin for autogenerate CRUD routes as fast as possible.
 - [`fastify-angular-universal`](https://github.com/exequiel09/fastify-angular-universal) Angular server-side rendering support using [`@angular/platform-server`](https://github.com/angular/angular/tree/master/packages/platform-server) for Fastify
 - [`fastify-babel`](https://github.com/cfware/fastify-babel) Fastify plugin for development servers which require babel transformations of JavaScript sources.
 - [`fastify-blipp`](https://github.com/PavelPolyakov/fastify-blipp) Prints your routes to the console, so you definitely know which endpoints are available.
